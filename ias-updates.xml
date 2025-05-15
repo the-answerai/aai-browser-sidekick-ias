@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='mpfddcfgelocejnmadbebcgfjldijhol'>
-    <updatecheck codebase='https://the-answerai.github.io/aai-browser-sidekick-ias/ias.crx' version='1.25135.1289' prodversionmin='64.0.3242' />
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="hpbjnmihflmijhadebjgdofgkmdoooml">
+    <updatecheck codebase="https://the-answerai.github.io/aai-browser-sidekick-ias/ias.crx" version="1.25135.1310" />
   </app>
 </gupdate>
