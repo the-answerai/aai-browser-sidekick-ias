@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="ihjkohclboecfgpipnhmeipjageccdci">
+    <updatecheck codebase="https://assets.ctfassets.net/abjv67t9l34s/29sDZIfCYXeQbjdSN5tUSD/a0fab0233acdee6c80f2310f00e53d46/ias.crx" version="1.20250515" />
+  </app>
+</gupdate>
